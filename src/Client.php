@@ -32,7 +32,7 @@ class Client
     /**
      * API Default Language
      */
-    const DEFAULT_API_LANGUAGE = 'en';
+    const DEFAULT_API_LANGUAGE = 'es';
 
     /**
      * API Default Source
